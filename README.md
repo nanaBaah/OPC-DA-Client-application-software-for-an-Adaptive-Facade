@@ -16,7 +16,7 @@ The core functionalities of the client application are solely programmed in **MA
 the graphical user interface was developed in **Java (i.e. Swing)**.
 
 *******************
-For testing purposes, these programming languages where also used to connect to the OPC server:
+For testing purposes, these programming languages where also used to connect to the OPC server (see other programming languages tested for OPC server connectivity):
 * C# .NET
 * Java
 * Python
