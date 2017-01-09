@@ -1,14 +1,27 @@
 OPC DA client application software
 ==================================
+
 ![alt tag](https://github.com/nanaBaah/OPC-DA-Client-application-software-for-an-Adaptive-Fa-ade/blob/master/SchematicCommunicationComponents.png)
+Schematic overview of communication process between components
+
+
 Introduction
 ------------
 The purpose of this project is to develop and implement the OPC DA client application software by integrating the technologies and systems which was researched in Part 1. 
+
 
 Source code
 -----------
 The core functionalities of the client application are solely programmed in **MATLAB** while
 the graphical user interface was developed in **Java (i.e. Swing)**.
+
+*******************
+For testing purposes, these programming languages where also used to connect to the OPC server:
+* C# .NET
+* Java
+* Python
+*******************
+
 
 Functionalities
 --------------- 
@@ -32,3 +45,6 @@ of values to the OPC server, which acts as the sensors’ values, to determine the
 of the lamellas/windows during the testing phase. The memory management performance
 of the client application is consistently analyzed to reduce memory leaks and consumption
 from the continuous size increment of the databases.
+
+
+
