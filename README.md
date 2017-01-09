@@ -1,6 +1,6 @@
 OPC DA client application software
 ==================================
-
+![alt tag](https://github.com/nanaBaah/OPC-DA-Client-application-software-for-an-Adaptive-Fa-ade/blob/master/SchematicCommunicationComponents.png)
 Introduction
 ------------
 The purpose of this project is to develop and implement the OPC DA client application software by integrating the technologies and systems which was researched in Part 1. 
