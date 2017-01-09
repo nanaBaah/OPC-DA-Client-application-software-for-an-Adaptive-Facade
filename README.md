@@ -7,7 +7,7 @@ Schematic overview of communication process between components
 
 Introduction
 ------------
-The purpose of this project is to develop and implement the OPC DA client application software by integrating the technologies and systems which was researched in Part 1. 
+The purpose of this project is to develop and implement the OPC DA client application software by integrating the technologies and systems in the communication process between the components. 
 
 
 Source code
@@ -20,8 +20,9 @@ For testing purposes, these programming languages where also used to connect to 
 * C# .NET
 * Java
 * Python
-*******************
 
+
+*******************
 
 Functionalities
 --------------- 
