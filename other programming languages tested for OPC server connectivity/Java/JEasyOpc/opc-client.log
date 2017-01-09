@@ -1,0 +1,150 @@
+21.03.2016 17:28:58 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:00 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:02 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:04 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:06 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:08 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:10 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:12 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:14 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:16 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:18 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:20 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:22 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:24 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:29:53 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:29:53 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:29:55 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:29:55 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:29:57 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:29:57 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:29:59 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:29:59 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:01 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:01 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:03 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:03 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:05 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:05 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:07 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:07 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:09 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:09 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:11 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:11 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:13 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:13 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:15 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:15 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:17 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:30:17 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:30:19 INFO Thread-0 javafish.clients.opc.JEasyOpc - OPC Groups are unregistered successfully.
+21.03.2016 17:30:19 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is disconnected.
+21.03.2016 17:35:42 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:44 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:46 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:48 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:50 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:52 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:54 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:35:56 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.ConnectivityException: The connection to the OPC Server has failed: localhost->Matrikon.OPC.Simulation
+21.03.2016 17:36:13 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:13 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:15 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:15 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:17 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:17 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:19 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:19 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:21 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:21 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:23 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:23 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:25 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:25 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:27 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:27 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:29 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:29 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:31 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:31 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:33 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:33 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:35 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:35 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:37 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:37 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:36:39 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:36:39 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:24 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:24 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:26 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:26 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:28 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:28 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:30 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:30 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:32 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:32 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:34 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:34 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:36 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:36 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:38 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:38 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:40 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:40 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:42 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:42 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:44 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:44 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:46 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:46 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:48 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:48 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:50 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:50 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:52 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:52 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:54 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:54 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:56 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:56 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:38:58 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:38:58 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:00 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:00 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:02 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:02 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:04 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:04 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:06 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:06 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:08 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:08 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:10 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:10 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:12 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:12 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:14 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:14 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:16 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:16 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:18 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:18 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:20 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:20 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:22 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:22 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:24 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:24 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:26 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:26 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:28 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:28 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:30 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:30 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:32 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:32 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 
+21.03.2016 17:39:34 INFO Thread-0 javafish.clients.opc.JEasyOpc - The OPC Client is connected.
+21.03.2016 17:39:34 ERROR Thread-0 javafish.clients.opc.JEasyOpc - javafish.clients.opc.exception.UnableAddItemException: Unable to register some item to group. 

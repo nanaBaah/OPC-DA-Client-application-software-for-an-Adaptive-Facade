@@ -1,0 +1,28 @@
+1
+[u'WMaOPCServer', u'WMaEIBOPCServer', u'WMaOPCProxy', u'ASP.OPCSIMServer.1', u'OPCLabs.KitServer.2']
+
+2
+None
+
+3
+None
+None
+None
+None
+None
+
+4
+(None, 'Error', None)
+
+5
+[u'$ServerControl', u'Boilers', u'Demo', u'Greenhouse', u'SimulateEvents', u'Simulation', u'Trends']
+
+6
+[('Protocol', 'DCOM'), ('Class', 'Graybox.OPC.DAWrapper'), ('Client Name', u'OpenOPC'), ('OPC Host', 'WPH-100'), 
+('OPC Server', u'OPCLabs.KitServer.2'), ('State', 'Running'), ('Version', '5.35 (Build 1126)'), ('Browser', 'Hierarchical'), 
+('Start Time', '06/01/16 11:18:51'), ('Current Time', '06/01/16 11:24:11'), ('Vendor', u'OPC Labs')]
+
+7
+<bound method client.close of <OpenOPC.client instance at 0x013CED78>>
+
+[Finished in 1.0s]s

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2006-09-25T18:51:09.849372Z"
+   url="https://svn.sourceforge.net/svnroot/jeasyopc/JEasyOpc/.settings"
+   last-author="arnal2"
+   kind="dir"
+   uuid="1b9a7a96-4b1e-0410-9bcb-890ecea9c50a"
+   repos="https://svn.sourceforge.net/svnroot/jeasyopc"
+   revision="39"/>
+<entry
+   committed-rev="2"
+   name="org.eclipse.jdt.core.prefs"
+   text-time="2006-10-22T15:11:31.734375Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="538b20d21fd5e8aeabfda02d7f49e4c5"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:31.437500Z"/>
+<entry
+   committed-rev="2"
+   name="org.eclipse.jdt.ui.prefs"
+   text-time="2006-10-22T15:11:31.812500Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="1da97e0a26c9920acf586d52961ac3e3"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:31.500000Z"/>
+<entry
+   committed-rev="2"
+   name="org.eclipse.ltk.core.refactoring.prefs"
+   text-time="2006-10-22T15:11:31.875000Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="85f46264d75a2835e240fb0f568b8fc7"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:31.578125Z"/>
+<entry
+   committed-rev="2"
+   name="org.eclipse.wst.validation.prefs"
+   text-time="2006-10-22T15:11:31.921875Z"
+   committed-date="2006-09-25T18:51:09.849372Z"
+   checksum="118ac61aba6326a1f5fc573852202c67"
+   last-author="arnal2"
+   kind="file"
+   prop-time="2006-10-22T15:11:31.656250Z"/>
+</wc-entries>
